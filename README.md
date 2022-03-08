@@ -2,5 +2,5 @@
 
 ## Collection of blooket hacks
 
-### ** Instructions **
+###  __Instructions__
 Copy contents of the file then paste it into the url after typing javascript:
